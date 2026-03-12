@@ -7,4 +7,8 @@ public class Main {
   public static void start_game(){
     System.out.println("Game started");
   }
+
+  public static void stop_game(){
+    System.out.println("Game stoped");
+  }
 }
