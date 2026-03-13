@@ -11,4 +11,8 @@ public class Main {
   public static void stop_game(){
     System.out.println("Game stoped");
   }
+
+  public static void move_right(){
+    System.out.println("player moving right");
+  }
 }
